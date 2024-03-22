@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newnew</string>
+    <string name="correct_answer">Jawaban Anda benar!</string>
+    <string name="incorrect_answer">Jawaban Anda salah!</string>
+</resources>
