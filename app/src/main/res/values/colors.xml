@@ -11,6 +11,8 @@
     <color name="navy_blue">#352e4f</color>
     <color name="purple">#8c72ed</color>
     <color name="blue">#45BEB9</color>
+    <color name="pressed_button_color">#009688</color>
+    <color name="default_button_color">#4DB6AC</color>
     <color name="red">#F55150</color>
     <color name="green">#34D287</color>
     <color name="grey">#E9E7F2</color>
