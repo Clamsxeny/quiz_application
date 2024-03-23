@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
         rightArrow = findViewById(R.id.rightArrow)
         questionNumberTxt = findViewById(R.id.questionNumberTxt)
         questionTxt = findViewById(R.id.questionTxt)
-        progressBar = findViewById(R.id.progressBar2) // Get reference to ProgressBar
+        progressBar = findViewById(R.id.progressBar2)
 
         // Initialize ProgressBar
         val progressBar: ProgressBar = findViewById(R.id.progressBar2)
@@ -189,6 +189,4 @@ class MainActivity : AppCompatActivity() {
 
         displayQuestion()
     }
-
-
 }

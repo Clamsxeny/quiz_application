@@ -61,7 +61,6 @@
                     android:layout_margin="20dp"
                     android:layout_gravity="center_vertical"
                     android:gravity="center"/>
-
             </LinearLayout>
 
             <Button
@@ -77,5 +76,4 @@
                 android:background="@color/orange"/>
         </LinearLayout>
     </ScrollView>
-
 </LinearLayout>

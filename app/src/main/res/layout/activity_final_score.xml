@@ -21,5 +21,4 @@
         android:layout_height="wrap_content"
         android:text="Return to Quiz"
         android:layout_marginTop="16dp"/>
-
 </LinearLayout>
